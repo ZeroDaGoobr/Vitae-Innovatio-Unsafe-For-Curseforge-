@@ -1,6 +1,7 @@
 Excuse my bad english, as it isn't my primary language qwq
 
 Note: you can download vitae from the latest version branch OR from the versions branch if you want to get an older copy.
+IMPORTANT: make sure to have the Chipped Mod installed to the modpack you are installing vitae to, as i have some structures that use Chipped's Blocks
 
 Vitae is a indevelopment mod, and in theory might take years to finish
 it also is my first mod / project i have ever gotten to work upon.
