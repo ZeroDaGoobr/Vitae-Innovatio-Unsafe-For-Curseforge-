@@ -1,7 +1,7 @@
 Excuse my bad english, as it isn't my primary language qwq
 
-Note
-~
+Note: you can download vitae from the latest version branch OR from the versions branch if you want to get an older copy.
+
 Vitae is a indevelopment mod, and in theory might take years to finish
 it also is my first mod / project i have ever gotten to work upon.
 it mainly focuses on 3 things.
@@ -15,7 +15,7 @@ adds a basic alloy system
 a new prosthetics, amputations and sanity system
 chest surgery, as of now it just gives you some extra blood based materials.
 and some armor.
-~
+
 
 Heres The Java Code That Adds Files To Your Desktop (.txt / .jar)
 
